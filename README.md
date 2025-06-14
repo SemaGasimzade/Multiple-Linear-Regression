@@ -30,4 +30,4 @@ The model achieved an **Adjusted R² of 0.9425**, indicating a strong fit.
 - **R&D Spend** was statistically significant (**p < 0.001**) and had the largest positive impact on Profit.
 - Other variables, such as Administration, Marketing Spend, and State, had **no significant effect** (p > 0.05).
 
-📄 For full regression output, see [`regression_summary.txt`](regression_summary.txt).
+📄 For full regression output, see [[`regression_summary.txt`](regression_summary.txt)](https://github.com/SemaGasimzade/Multiple-Linear-Regression/blob/main/regression_summary.txt).

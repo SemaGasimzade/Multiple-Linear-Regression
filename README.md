@@ -15,7 +15,7 @@ This project demonstrates how to build a multiple linear regression model in R u
 
 ## 📁 Files
 - `50_Startups.csv` — dataset used
-- `multiple_regression_model.R` — model script
+- [`multiple_regression_model.R`](https://github.com/SemaGasimzade/Multiple-Linear-Regression/blob/main/multiple_linear_regression.R) — model script
 
 ## 📎 Output
 Model summary and prediction output available in R console.
